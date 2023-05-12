@@ -1,0 +1,16 @@
+sudo é case sensitive
+sudo apt-get update                  #atualizar o source.list
+sudo apt update                      #atualizar o sistema
+sudo apt full-upgrade                #atualização completo do sistema
+sudo apt dist-upgrade                #atualização da distribuição
+sudo apt autoremove                  #auto remoção de software velho
+sudo apt autoclean                   #auto limpeza do sistema operacional
+sudo reboot                          #reinicia o sistema
+history                              #Histórico de comandos
+
+Terminal (cmd): Ctrl+Alt+T
+Terminal: Ctrl+Alt+F1
+Desktop normal: Ctrl+Alt+F
+Limpar: Ctrl +L
+
+sudo apt install notepadqq git vim   #instalar notepad++ do linux, git e vim
